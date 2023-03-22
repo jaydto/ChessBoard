@@ -13,7 +13,7 @@ public class ChessBoard {
                     System.out.print("□ ");
                 } else {
                     System.out.print("■ ");
-                }
+                }        
             }
             System.out.println();
         }
